@@ -8,14 +8,14 @@
 # Site Settings
 locale                   : "en"
 title                    : "Hope thoughts"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "David Hope"
 description              : "A radomly generated hot take for my own amusment."
 url                      : #"https://dhope.guithub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/blog" # the subpath of your site, e.g. "/blog"
 repository               : #"dhope/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : "/assets/images/fallback.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "David Hope"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dhope.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Candidate at Simon Fraser University"
   location         : "Burnaby, BC"
   email            : "dhope@sfu.ca"
-  uri              :
+  uri              : "https://www.sfu.ca/~dhope"
   bitbucket        :
   codepen          :
   dribbble         :
