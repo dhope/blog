@@ -1,7 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Bio page"
+    url: https://dhope.github.io
+  - title: "Thesis project"
+    url: https://www.sfu.ca/~dhope
+  - title: "Recent Posts"
+    url: /year-archive/
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
