@@ -1,11 +1,7 @@
 ---
 title: "CV - David Hope"
 permalink: /cv/
-
 ---
-
-
-============
 
 ----
 
@@ -41,15 +37,17 @@ Publications
 2014
 :     **Hope, D. D.**, D. B. Lank, and R. C. Ydenberg. Mortality-minimizing sandpipers vary stopover
         behavior dependent on age and geographic proximity to migrating predators. Behavioral
-        Ecology and Sociobiology:1-12. DOI: 10.1007/s00265-014-1695-x
+        Ecology and Sociobiology:1-12. DOI: [10.1007/s00265-014-1695-x](https://www.sfu.ca/biology/wildberg/NewCWEPage/papers/HopeetalBES2014.pdf)
+        
 2013
 :     Kurle, C.M., C.V. Kappel, **D.D. Hope**, A. Lam (2013). Invasion Status of Terrestrial Mammals on
-        Uninhabited Islands within the San Juan Archipelago, Washington. Northwest Science, 87(2),
-        178-184.
+        Uninhabited Islands within the San Juan Archipelago, Washington. [Northwest Science, 87(2),
+        178-184](https://www.bioone.org/doi/abs/10.3955/046.087.0211).
+        
 2011
 :     **Hope, D.D.**; D.B. Lank, B.D. Smith and R.C. Ydenberg (2011) Migration of two calidrid sandpiper species
           on the predator landscape: how stopover time and hence migration speed vary with proximity
-          to danger. Journal of Avian Biology 42: 523-530. DOI: 10.1111/j.1600-048X.2011.05347.x
+          to danger. Journal of Avian Biology 42: 523-530. DOI: [10.1111/j.1600-048X.2011.05347.x](https://www.sfu.ca/biology/wildberg/papers/HopeetalJAB2011.pdf)
 
 
 Presentations
@@ -131,17 +129,17 @@ Library Assistant | UBC Main Library, Vancouver | 2003-2005
 
 Academic Awards
 -----------------
-SFU President's PhD Scholarship, 2016 \
-NSERC Industrial Postgraduate Scholarship 2013-2015 \
-WHSG Travel Award 2013\
-King-Platt Memorial Fellowship – 2010-2011\
-UVic Graduate Fellowship – 2010-2011\
-Northern Scientific Training Program Grant 2008 & 2009\
-SFU Graduate Fellowship, 2007, 2009, 2016, 2017\
-SFU Biological Sciences Travel Award 2009\
-UBC Deans Honour List 2004-2005\
-BMS Academic Scholarship, 2004\
-UBC Undergraduate Scholar Program Scholarship, 2003-2004\
+SFU President's PhD Scholarship, 2016 
+NSERC Industrial Postgraduate Scholarship 2013-2015 
+WHSG Travel Award 2013
+King-Platt Memorial Fellowship – 2010-2011
+UVic Graduate Fellowship – 2010-2011
+Northern Scientific Training Program Grant 2008 & 2009
+SFU Graduate Fellowship, 2007, 2009, 2016, 2017
+SFU Biological Sciences Travel Award 2009
+UBC Deans Honour List 2004-2005
+BMS Academic Scholarship, 2004
+UBC Undergraduate Scholar Program Scholarship, 2003-2004
 Passport to Education / Graduation Program Examinations Scholarship, 1999
 
 Skills and Certification
