@@ -31,6 +31,7 @@ Education
 
 Publications
 ------------
+
 <!-- **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon. (in revision).
         An index of migratory progression for shorebirds along the northern Pacific Flyway. The
         Condor: Ornithological Applications. Submitted June 5, 2016. Reviews received Sept. 1, 2016. -->
