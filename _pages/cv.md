@@ -31,6 +31,7 @@ Education
 
 Publications
 ------------
+
 <!-- **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon. (in revision).
         An index of migratory progression for shorebirds along the northern Pacific Flyway. The
         Condor: Ornithological Applications. Submitted June 5, 2016. Reviews received Sept. 1, 2016. -->
@@ -130,16 +131,27 @@ Library Assistant | UBC Main Library, Vancouver | 2003-2005
 Academic Awards
 -----------------
 SFU President's PhD Scholarship, 2016 
+
 NSERC Industrial Postgraduate Scholarship 2013-2015 
+
 WHSG Travel Award 2013
+
 King-Platt Memorial Fellowship – 2010-2011
+
 UVic Graduate Fellowship – 2010-2011
+
 Northern Scientific Training Program Grant 2008 & 2009
+
 SFU Graduate Fellowship, 2007, 2009, 2016, 2017
+
 SFU Biological Sciences Travel Award 2009
+
 UBC Deans Honour List 2004-2005
+
 BMS Academic Scholarship, 2004
+
 UBC Undergraduate Scholar Program Scholarship, 2003-2004
+
 Passport to Education / Graduation Program Examinations Scholarship, 1999
 
 Skills and Certification
