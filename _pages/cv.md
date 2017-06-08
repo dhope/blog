@@ -168,7 +168,7 @@ Quick learner with excellent communication and problem solving skills
 
 ----
 
-> <dhope@sfu.ca> • +1 (778) 882 4673 \
-> Centre for Wildlife Ecology \
-Department of Biological Sciences \
-Simon Fraser University, Burnaby, BC
+> <dhope@sfu.ca> • +1 (778) 882 4673 •
+> Centre for Wildlife Ecology •
+> Department of Biological Sciences •
+> Simon Fraser University, Burnaby, BC •
