@@ -1,3 +1,11 @@
+---
+title: "CV - David Hope"
+permalink: /CV/
+date: 2011-06-23T18:38:52+00:00
+---
+
+
+
 David Hope
 ============
 
