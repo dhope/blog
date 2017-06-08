@@ -1,14 +1,7 @@
 ---
 title: "CV - David Hope"
-permalink: /CV/
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+permalink: /cv/
+
 ---
 
 
