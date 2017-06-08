@@ -1,12 +1,17 @@
 ---
 title: "CV - David Hope"
 permalink: /CV/
-date: 2011-06-23T18:38:52+00:00
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 
-
-David Hope
 ============
 
 ----
