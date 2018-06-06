@@ -32,27 +32,35 @@ Education
 Publications
 ------------
 
-<!-- **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon. (in revision).
-        An index of migratory progression for shorebirds along the northern Pacific Flyway. The
-        Condor: Ornithological Applications. Submitted June 5, 2016. Reviews received Sept. 1, 2016. -->
+2018
+:     **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon (2018). Trends in timing of spring migration along the Pacific Flyway by Western Sandpipers and Dunlins. The Condor: August 2018, Vol. 120, No. 3, pp. 471-488. DOI: [10.1650/CONDOR-17-126.1](./Hopeetal2018.pdf)
+
 2014
 :     **Hope, D. D.**, D. B. Lank, and R. C. Ydenberg. Mortality-minimizing sandpipers vary stopover
         behavior dependent on age and geographic proximity to migrating predators. Behavioral
         Ecology and Sociobiology:1-12. DOI: [10.1007/s00265-014-1695-x](https://www.sfu.ca/biology/wildberg/NewCWEPage/papers/HopeetalBES2014.pdf)
         
 2013
-:     Kurle, C.M., C.V. Kappel, **D.D. Hope**, A. Lam (2013). Invasion Status of Terrestrial Mammals on
+:     Kurle, C.M., C.V. Kappel, **D.D. Hope**, A. Lam. Invasion Status of Terrestrial Mammals on
         Uninhabited Islands within the San Juan Archipelago, Washington. [Northwest Science, 87(2),
         178-184](https://www.bioone.org/doi/abs/10.3955/046.087.0211).
         
 2011
-:     **Hope, D.D.**; D.B. Lank, B.D. Smith and R.C. Ydenberg (2011) Migration of two calidrid sandpiper species
+:     **Hope, D.D.**; D.B. Lank, B.D. Smith and R.C. Ydenberg. Migration of two calidrid sandpiper species
           on the predator landscape: how stopover time and hence migration speed vary with proximity
           to danger. Journal of Avian Biology 42: 523-530. DOI: [10.1111/j.1600-048X.2011.05347.x](https://www.sfu.ca/biology/wildberg/papers/HopeetalJAB2011.pdf)
 
 
 Presentations
 --------------
+2018
+: **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon. "Divergent trends in migration timing of shorebirds along the Pacific flyway." Salish Sea Ecosystem Conference. Seattle USA. 
+: Canham  R, **Hope D**, Johnstone R, Lank DB, Ydenberg RC. "A practical and informative sandpiper monitoring procedure for the Salish Sea." Salish Sea Ecosystem Conference. Seattle USA. 
+
+2017
+: **Hope, D. D.**, D.B. Lank and R.C. Ydenberg. "Southbound semipalmated sandpipers have shifted to safer stopover sites since 1974" Western Hemispheric Shorebird Group Meeting 7. Paracas Peru.
+: **Hope, D. D.** and R.C. Ydenberg "Leading indicators for conservation: Utilizing a model of stopover site selection and citizen science surveys to assess census trends" Western Hemispheric Shorebird Group Meeting 7. Paracas Peru.
+
 2016
 :   **Hope, D. D.**, and R. Johnston "Understanding migration and non-breeding site choice in long-distant
         migrants" Les Ecologistes, SFU.
@@ -86,6 +94,12 @@ Presentations
 
 Teaching Experience
 -----------
+2018
+:   **Teaching Assistant - BISC 405** Neurobiology - Simon Fraser University. 4 Months. 
+      Spring 2018
+:   **Teaching Assistant - BISC 421** Models in Biology: From Molecules to Migration - Simon Fraser University. 4 Months. 
+      Spring 2018
+
 2008-2010
 :   **Teaching Assistant - BISC 102** Introductory Biology – Simon Fraser University. 9 Months. 
       Spring/Fall 2008, and Spring 2010.
@@ -130,6 +144,9 @@ Library Assistant | UBC Main Library, Vancouver | 2003-2005
 
 Academic Awards
 -----------------
+
+Salish Sea Ecosystem Conference Award
+
 SFU President's PhD Scholarship, 2016 
 
 NSERC Industrial Postgraduate Scholarship 2013-2015 
