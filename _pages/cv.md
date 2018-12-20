@@ -197,32 +197,3 @@ Web
 > Centre for Wildlife Ecology \
 Department of Biological Sciences \
 Simon Fraser University, Burnaby, BC
-
-
-\pagebreak
-
-References
---------------
-
-
-Professor Ronald Ydenberg \
-Simon Fraser University \
-[ydenberg@sfu.ca](mailto:ydenberg@sfu.ca) \
-778-782-4282 \
-Supervisor for my PhD and Msc Theses  
-
-Dr. David Bradley \
-Bird Studies Canada \
-[dbradley@birdscanada.org](mailto:dbradley@birdscanada.org) \
-604-350-1996 \
-Supervisor, Bird Studies Canada \
-PhD committee member
-
-Dr. Mark Drever \
-Canadian Wildlife Service \
-Environment and Climate Change Canada \
-[mark.drever@canada.ca](mailto:mark.drever@canada.ca) \
-604-351-2874 \
-Supervisor, Canadian Wildlife Service \
-PhD committee member
-
