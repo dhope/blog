@@ -147,18 +147,30 @@ Teaching Experience
 Academic Awards
 -----------------
 
-Salish Sea Ecosystem Conference Award\
-SFU President's PhD Scholarship, 2016 \
-NSERC Industrial Postgraduate Scholarship 2013-2015 \
-WHSG Travel Award 2013\
-King-Platt Memorial Fellowship - 2010-2011\
-UVic Graduate Fellowship - 2010-2011\
-Northern Scientific Training Program Grant 2008 & 2009\
-SFU Graduate Fellowship, 2007, 2009, 2016, 2017\
-SFU Biological Sciences Travel Award 2009\
-UBC Deans Honour List 2004-2005\
-BMS Academic Scholarship, 2004\
-UBC Undergraduate Scholar Program Scholarship, 2003-2004\
+Salish Sea Ecosystem Conference Award
+
+SFU President's PhD Scholarship, 2016 
+
+NSERC Industrial Postgraduate Scholarship 2013-2015 
+
+WHSG Travel Award 2013
+
+King-Platt Memorial Fellowship - 2010-2011
+
+UVic Graduate Fellowship - 2010-2011
+
+Northern Scientific Training Program Grant 2008 & 2009
+
+SFU Graduate Fellowship, 2007, 2009, 2016, 2017
+
+SFU Biological Sciences Travel Award 2009
+
+UBC Deans Honour List 2004-2005
+
+BMS Academic Scholarship, 2004
+
+UBC Undergraduate Scholar Program Scholarship, 2003-2004
+
 Passport to Education / Graduation Program Examinations Scholarship, 1999
 
 
@@ -195,7 +207,5 @@ Web
 
 ----
 
-> <dhope@sfu.ca> • +1 (778) 882 4673 \
-> Centre for Wildlife Ecology \
-Department of Biological Sciences \
-Simon Fraser University, Burnaby, BC
+> <mail@sfu.ca> • +1 (778) 882 4673 \
+> Burnaby, BC

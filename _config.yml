@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Hope thoughts"
 title_separator          : "|"
 name                     : "David Hope"
-description              : "A radomly generated hot take for my own amusment."
+description              : "A randomly generated hot take for my own amusment."
 url                      : #"https://dhope.guithub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/blog" # the subpath of your site, e.g. "/blog"
 repository               : #"dhope/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "David Hope"
   avatar           : "/assets/images/dhope.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate at Simon Fraser University"
+  bio              : "Quantitative biologist"
   location         : "Burnaby, BC"
-  email            : "dhope@sfu.ca"
+  email            : "mail@davidhope.ca"
   uri              : "https://www.sfu.ca/~dhope"
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        : "hopeioslo"
   lastfm           :
-  linkedin         :
+  linkedin         : "d-hope"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
