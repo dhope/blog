@@ -1,4 +1,5 @@
 David Hope
+permalink: /cv/
 ============
 
 ----
