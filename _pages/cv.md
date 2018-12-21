@@ -30,7 +30,7 @@ Education
 
 Key Skills
 ----------------------------------
-| |
+
 ----------------- | -------------------------- | -------------
 Hierarchal modelling | Behavioural modelling | Mark-recapture analysis
 R | Python| C++
