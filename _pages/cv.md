@@ -1,5 +1,7 @@
-David Hope
-============
+---
+title: "CV - David Hope"
+permalink: /cv/
+---
 
 ----
 
