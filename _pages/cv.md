@@ -5,7 +5,7 @@ permalink: /cv/
 
 ----
 
->  I am currently working as a migratory shorebird biologist with Environment and Climate Change Canada.  I have extensive statistical and modelling experience, but
+>  I am currently working as a quantitative wildlife biologist with Environment and Climate Change Canada.  I have extensive statistical and modelling experience, but
 >  also love to be in the field.
 
 ----
@@ -117,7 +117,8 @@ Work/Volunteer Experience
 
 Title| Description | Date
 ----------------- | -------------------------------------- | -------------
-Shorebird Biologist | Environment and Climate Change Canada | October 2018 - Present 
+Quantitative wildlife biologist | Environment and Climate Change Canada | May 2019 - Present
+Shorebird Biologist | Environment and Climate Change Canada | October 2018 - May 2019 
 Executive Officer | Center for Ecological and Evolutionary Synthesis, University of Oslo | Aug - Dec 2012
 Organizing Assistant | International Statistical Ecology Conference 2012 - Oslo, Norway | July 2012 
 Assistant | Center for Ecological and Evolutionary Synthesis, Universitetet i Oslo | June - Aug 2012
@@ -207,5 +208,5 @@ Web
 
 ----
 
-> <mail@sfu.ca> • +1 (778) 882 4673 \
+> <mail@davidhope.ca> • +1 (778) 882 4673 
 > Burnaby, BC
