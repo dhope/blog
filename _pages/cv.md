@@ -43,14 +43,21 @@ Quick learner | Effective communicator | Good problem solver
 Publications
 ------------
 
+2019
+:     **Hope, D.D**, C. Pekarik, M.C. Drever, P.A. Smith, 
+        C. Gratto-Trevor, J. Paquet, Y. Aubry, G. Donaldson, C. Friis,
+        K. Gurney, J. Rausch, A.E. McKellar & B. Andres. 2019. Shorebirds of conservation concern in Canada – 2019. Wader
+        Study 126(2): [https://www.waderstudygroup.org/article/12804/](https://www.waderstudygroup.org/article/12804/).     
+
+:      Ydenberg, R. and **Hope, D.** (2019), Danger management and the seasonal adjustment of migratory speed by sandpipers. Journal of Avian Biology. Accepted Author Manuscript. doi:[10.1111/jav.02202](https://doi.org/10.1111/jav.02202)
+
 2018
-:     **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G. Matz, and M. J. F. Lemon (2018). Trends in timing of spring migration 
+:     **Hope, D. D.**, M. C. Drever, J. B. Buchanan, M.A. Bishop, G.  Matz, and M. J. F. Lemon (2018). Trends in timing of spring migration 
 		along the Pacific Flyway by Western Sandpipers and Dunlins. The Condor: August 2018, Vol. 120, No. 3, pp. 471-488. DOI: [10.1650/CONDOR-17-126.1](https://doi.org/10.1650/CONDOR-17-126.1)
 
 2014
 :     **Hope, D. D.**, D. B. Lank, and R. C. Ydenberg. Mortality-minimizing sandpipers vary stopover
-        behavior dependent on age and geographic proximity to migrating predators. Behavioral
-        Ecology and Sociobiology:1-12. DOI: [10.1007/s00265-014-1695-x](https://www.sfu.ca/biology/wildberg/NewCWEPage/papers/HopeetalBES2014.pdf)
+        behavior dependent on age and geographic proximity to migrating predators. Behavioral Ecology and Sociobiology:1-12. DOI: [10.1007/s00265-014-1695-x](https://www.sfu.ca/biology/wildberg/NewCWEPage/papers/HopeetalBES2014.pdf)
 
 2013
 :     Kurle, C.M., C.V. Kappel, **D.D. Hope**, A. Lam. Invasion Status of Terrestrial Mammals on
